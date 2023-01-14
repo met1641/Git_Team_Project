@@ -6,6 +6,8 @@ public class Mehmet {
 
 
         System.out.println("Hello dudes");
+        //added comment
+        //added second comment
     }
 
 
